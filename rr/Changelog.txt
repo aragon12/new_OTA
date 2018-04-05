@@ -1,0 +1,48 @@
+05-04-18
+~ April Security patches
+~ fixed data calling bug
+~ fixed Video Calling over LTE (ViLTE)
+~ kernel upstreamed to .102
+~ fixed power off charging
+~ disabled interaction boost
+
+=========================
+12-03-18
+~ march security patches
+~ Dark Cam fixed (thanks to nichcream)
+~ kernel upstreamed to .98
+~ public demand: usb fast charge (enable it via kernel adiuter)
+~ added OTA update support
+~ try to fix battery drain (hope it works)
+
+=========================
+26-02-18
+~ fixed LED (this time for real)
+~ fixed IR blaster
+~ goodix FP fixed
+~ kernel upstreamed to .96
+
+=========================
+23-02-18
+~ we are now OFFICIAL
+~ fixed cam & camcorder
+~ new app icons
+~ added dark theme and other device themes
+~ sytemui: fixed left clock visibility and added advanced location tile
+~ removed always on display(u cn enable it via subs)
+~ some optimisations
+
+=========================
+14-02-18
+~ fixed hardware key settings not showing
+~ fixed led bug
+~ added always on display
+~ Bluetooth is now "Off" by default on first boot
+~ some device tree changes
+
+=========================
+11-02-18
+~ Initial release
+~ welcome RR to oreo family
+~ fixed bootanimation
+~ fixed back button as home
