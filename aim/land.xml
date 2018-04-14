@@ -1,44 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V3.1-20180302-OFFICIAL-land</VersionName>
-<VersionNumber type="integer">20180302</VersionNumber>
-<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/land/AIM-System-V3.1-20180302-OFFICIAL-land.zip/download]]></DirectUrl>
+<VersionName>AIM-System-V3.2-20180414-OFFICIAL-land</VersionName>
+<VersionNumber type="integer">20180414</VersionNumber>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/land/AIM-System-V3.2-20180414-OFFICIAL-land.zip/download]]></DirectUrl>
 <HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/land/]]></HttpUrl>
 <Android>8.1.0</Android>
-<CheckMD5>63cdfa9dfee62862573b617febc110c7</CheckMD5>
-<FileSize type="integer">480424859</FileSize>
+<CheckMD5>b7a177ab71fa0914871da46cd109a286</CheckMD5>
+<FileSize type="integer">509059072</FileSize>
 <Developer><![CDATA[Aragon12]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-aim-rom-v3-1-land-1-mar-t3757271/]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
 <Changelog>
 <![CDATA[
-#  AIMROM OREO 8.1 Update :
+# AIM System V3.2 Update:
 
--> Merged feb seurity patch
--> Fixed Dark themeing issues
--> Fixed recents missbehaviour
--> Fixed LED lights switch
--> Changed default thumb type
--> Added AIMWALLS
--> Added New Ringtones/sounds
--> Added Ticker padding fix
--> Added More Accent colors
--> Added Framework Boost
--> Added Quick unlock
--> Fixed APPOPS crash
--> Fixed QStiles NPE during boot
--> Added Stubs for setcursor visibility
--> Added Vibrate on plug
--> Added Alert on charging level
--> Added charging event sounds
--> Added Battery image enable/disable
--> Added reset battery stats
--> Added Password orientation feature
--> Added full substratum support (fixed bugs)
--> Disable QS panel transparency
--> Adaptive icons for all Systemapps
--> More and More ...
+ - Merged April Security Patch
+ - Latest substratum changes
+ - Added Custom Carrier Lable 
+ - Added Ambient Ticker
+ - Face Unlock
+ - Notification Ticker Fixups
+ - Statusbar Clock and Date customizations
+ - Allow using 4G icon instead LTE toggle
+ - Make roaming indicator optional
+ - Option to Display Data Disabled Indicator Icon
+ - Small tile scroller
+ - QS Headers
+ - Suspend Actions
+ - Automatic albumart for Pulse
+ - Less and smart notifications
+ - Three finger swipe screenshot
+ - CM screen security settings
+ - Expanded desktop
+ - Added Music, Weather, Google assist qs tiles
+ - Volume key cursor control
+ - Volume key music control
+ - Volume key answer
+ - DU hardware action key binding
+ - Custom Button light
+ - Lockscreen Visualizer
+ - Statusbar weather
+ - Lockscreen Weather
+ - Ambient Botton View options
+ - Battery Bar
+ - Added ticker scroll
+ - Added kill button to notification guts
+ - Statusbar battery styles 
+ - Slim recents icon management
+ - Statusbar brightness control
+ - Android P transitions with on/off toggle
+ - Screen off animations
+ - Option to disable scrolling cache
+ - Quickly open Running Services from QS panel
+ - QS Pulldown
+ - Double tap to sleep on statusbar
+ - Ruthless Pixel Launcher 
+ - more and more....
 
 #LetsAimify
 
