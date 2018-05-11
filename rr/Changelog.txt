@@ -1,3 +1,11 @@
+11-05-18
+~ May Security patches
+~ added Nav & Edge gestures
+~ kernel upstreamed to .108
+~ removed that annoying data confirmation box
+~ added smart pixels
+
+=========================
 05-04-18
 ~ April Security patches
 ~ fixed data calling bug
