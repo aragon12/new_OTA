@@ -1,3 +1,13 @@
+12-06-18
+~ version bump to RR v6.1.0
+~ Implemented full treble
+~ full selinux support (enforcing)
+~ June Security patches
+~ fixed app permissions force close in dark theme
+~ upstream kernel to .112
+~ added Trust Interface
+
+=========================
 11-05-18
 ~ May Security patches
 ~ added Nav & Edge gestures
