@@ -1,3 +1,9 @@
+13-07-18
+~ July Security patches
+~ upstream kernel to .115
+~ minor device specific improvements
+
+=========================
 12-06-18
 ~ version bump to RR v6.1.0
 ~ Implemented full treble
