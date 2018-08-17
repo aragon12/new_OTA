@@ -1,3 +1,8 @@
+16-08-18
+~ August Security patches
+~ upstream kernel to .116
+
+=========================
 13-07-18
 ~ July Security patches
 ~ upstream kernel to .115
