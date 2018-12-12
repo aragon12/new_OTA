@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 <Stable>
-<land>
-<Filename>RR-O-v6.2.1-20181111-rosy-Final.zip</Filename>
+<rosy>
+<Filename>RR-O-v6.2.1-20181212-rosy-Final.zip</Filename>
 <LatestBuildUrl
   id="latestbuild"
   title="Latest Build"
-  description="Download Latest Build">http://downloads.resurrectionremix.com/land/RR-O-v6.2.1-20181111-rosy-Final.zip</LatestBuildUrl>
+  description="Download Latest Build">http://downloads.resurrectionremix.com/land/RR-O-v6.2.1-20181212-rosy-Final.zip</LatestBuildUrl>
 <BuildUrl
   id="build"
   title="Build"
@@ -19,7 +19,7 @@
   id="changelog"
   title="Changelog"
   description="View Changelogs">https://github.com/aragon12/rom_ota/blob/oreo/rr/Changelog_rosy.txt</ChangelogUrl>
-</land>
+</rosy>
 </Stable>
 </SlimOTA>
     
